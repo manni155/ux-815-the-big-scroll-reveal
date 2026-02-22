@@ -1,4 +1,27 @@
 /* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
 a.active {
     font-weight: bold;
+}
+
+html.sr .load-hidden {
+    visibility: hidden;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #353535;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
+
+.scrollImage {
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 25px;
 }
