@@ -1,2 +1,3 @@
-# Static HTML Boilerplate
-Basic HTML, CSS, and JavaScript setup for a simple website.
+# The Big Scroll Reveal
+Lab 6 for UX 815
+
